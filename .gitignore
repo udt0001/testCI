@@ -1,0 +1,8 @@
+
+*.xccheckout
+
+*.xcuserstate
+
+testCI.xcodeproj/xcuserdata/looping.xcuserdatad/xcschemes/xcschememanagement.plist
+
+testCI.xcodeproj/project.xcworkspace/xcuserdata/looping.xcuserdatad/UserInterfaceState.xcuserstate
